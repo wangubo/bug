@@ -1,0 +1,57 @@
+.foot .me p{
+  
+    text-align: center;
+    font-weight: bolder;
+    line-height: 14px;
+}
+.foot .me{
+    padding: 20px;
+    background-color:black;
+}
+.phone-call-tab {
+    display: flex;
+    align-items: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 5px;
+    padding-right: 100px;
+  }
+
+  .phone-icon {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+
+  .phone-details {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .phone-number {
+    font-weight: bold;
+    font-size: 18px;
+    align-items: center;
+
+  }
+
+  .call-text {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .phone-call-tab:hover {
+    background-color: #0056b3;
+    transition: background-color 0.2s;
+  }
+
+  .social nav li a{
+    background-color: rgb(27, 26, 24);
+    display: flex;
+  }
