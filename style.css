@@ -55,3 +55,7 @@
     background-color: rgb(27, 26, 24);
     display: flex;
   }
+
+  .headz{
+    background: linear-gradient(rgba(23,34,56,.5));
+  }
